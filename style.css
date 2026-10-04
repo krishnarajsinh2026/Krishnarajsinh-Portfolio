@@ -649,3 +649,12 @@ footer p {
         align-items: flex-start;
     }
 }
+.certificate-image {
+    width: 100%;
+    height: 260px;
+    object-fit: contain;
+    background: #ffffff;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    padding: 8px;
+}
