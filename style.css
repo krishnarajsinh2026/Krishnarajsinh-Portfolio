@@ -658,3 +658,14 @@ footer p {
     margin-bottom: 20px;
     padding: 8px;
 }
+.profile-circle {
+    overflow: hidden;
+}
+
+.profile-circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+}
